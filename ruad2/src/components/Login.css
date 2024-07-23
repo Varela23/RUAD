@@ -1,0 +1,10 @@
+.login-container{
+    text-align: center;
+
+
+}
+.form-group label{
+    text-align:end;
+    margin: 20px 0;
+    align-items: center;
+}
